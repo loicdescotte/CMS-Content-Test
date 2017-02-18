@@ -1,7 +1,6 @@
 ## An introduction to Scala
 
-This is scala code : 
-
+This is `Scala` code : 
 
     val a = 1  
 
