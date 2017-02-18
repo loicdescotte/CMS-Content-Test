@@ -1,3 +1,3 @@
 ## First post
 
-This is my fist post, welcome to my Blog!
+This is my first post, welcome to my Blog!
